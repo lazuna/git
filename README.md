@@ -1,2 +1,2 @@
 # git
-GIT-SCM repository 
+Everything is local
